@@ -7,6 +7,11 @@ const routes:Array<RouteRecordRaw>=[
         path:'/',
         name:'home',
         component:Layout
+    }，
+    {
+        path:'/person',
+        name:'person',
+        component:Layout
     }
 ]
 
